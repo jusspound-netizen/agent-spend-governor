@@ -1,0 +1,13 @@
+{
+  "name": "agent-spend-governor",
+  "version": "0.1.1",
+  "description": "Budget and policy gate for AI agents. Approve or deny tool calls before they run.",
+  "author": { "name": "jusspound-netizen" },
+  "license": "MIT",
+  "mcpServers": {
+    "agent-spend-governor": {
+      "command": "python",
+      "args": ["server.py"]
+    }
+  }
+}
