@@ -1,4 +1,4 @@
-# agent-spend-governor
+﻿# agent-spend-governor
 
 [![agent-spend-governor MCP server](https://mcprush.com/badge/agent-spend-governor-mcp/card.svg)](https://mcprush.com/to/agent-spend-governor-mcp?ref=badge)
 
@@ -47,3 +47,4 @@ on serialized arguments - defense in depth, not a sandbox.
 ## License
 
 MIT
+
